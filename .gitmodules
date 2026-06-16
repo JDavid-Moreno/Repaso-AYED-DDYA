@@ -4,3 +4,6 @@
 [submodule "Notacion-BigO"]
 	path = Notacion-BigO
 	url = https://github.com/JDavid-Moreno/Notacion-Big-O.git
+[submodule "Teorema-Maestro"]
+	path = Teorema-Maestro
+	url = https://github.com/JDavid-Moreno/Teorema-Maestro.git
