@@ -1,6 +1,6 @@
 [submodule "Algoritmos-de-ordenamiento"]
 	path = Algoritmos-de-ordenamiento
-	url = https://JDavid-Moreno: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@github.com/JDavid-Moreno/Algoritmos-de-ordenamiento.git
+	url = https://github.com/JDavid-Moreno/Algoritmos-de-ordenamiento.git
 [submodule "Notacion-BigO"]
 	path = Notacion-BigO
 	url = https://github.com/JDavid-Moreno/Notacion-Big-O.git
