@@ -7,3 +7,6 @@
 [submodule "Teorema-Maestro"]
 	path = Teorema-Maestro
 	url = https://github.com/JDavid-Moreno/Teorema-Maestro.git
+[submodule "Dividir-y-conquistar"]
+	path = Dividir-y-conquistar
+	url = https://github.com/JDavid-Moreno/Dividir-y-conquistar.git

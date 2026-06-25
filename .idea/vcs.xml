@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Algoritmos-de-ordenamiento" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dividir-y-conquistar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Notacion-BigO" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Teorema-Maestro" vcs="Git" />
   </component>
