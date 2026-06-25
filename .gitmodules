@@ -10,3 +10,6 @@
 [submodule "Dividir-y-conquistar"]
 	path = Dividir-y-conquistar
 	url = https://github.com/JDavid-Moreno/Dividir-y-conquistar.git
+[submodule "Programacion-Dinamica"]
+	path = Programacion-Dinamica
+	url = https://github.com/JDavid-Moreno/Programacion-Dinamica.git
