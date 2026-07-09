@@ -13,3 +13,6 @@
 [submodule "Programacion-Dinamica"]
 	path = Programacion-Dinamica
 	url = https://github.com/JDavid-Moreno/Programacion-Dinamica.git
+[submodule "Estructuras-Lineales"]
+	path = Estructuras-Lineales
+	url = https://github.com/JDavid-Moreno/Estructuras-Lineales.git
