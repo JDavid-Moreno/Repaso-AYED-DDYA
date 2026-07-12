@@ -16,3 +16,6 @@
 [submodule "Estructuras-Lineales"]
 	path = Estructuras-Lineales
 	url = https://github.com/JDavid-Moreno/Estructuras-Lineales.git
+[submodule "Arboles-Binarios"]
+	path = Arboles-Binarios
+	url = https://github.com/JDavid-Moreno/Arboles-Binarios.git
