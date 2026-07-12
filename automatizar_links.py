@@ -11,4 +11,3 @@ def main():
     print(f"[![{name}](https://img.youtube.com/vi/{front}/0.jpg)]({link})")
 
 main()
- 
