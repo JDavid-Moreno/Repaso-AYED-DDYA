@@ -19,3 +19,6 @@
 [submodule "Arboles-Binarios"]
 	path = Arboles-Binarios
 	url = https://github.com/JDavid-Moreno/Arboles-Binarios.git
+[submodule "Grafos"]
+	path = Grafos
+	url = https://github.com/JDavid-Moreno/Grafos.git
