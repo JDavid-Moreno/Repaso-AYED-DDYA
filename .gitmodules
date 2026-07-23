@@ -22,3 +22,6 @@
 [submodule "Grafos"]
 	path = Grafos
 	url = https://github.com/JDavid-Moreno/Grafos.git
+[submodule "Colas-de-prioridad-con-montones-binarios"]
+	path = Colas-de-prioridad-con-montones-binarios
+	url = https://github.com/JDavid-Moreno/Colas-de-prioridad-con-montones-binarios.git
