@@ -2,14 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Algoritmos-de-ordenamiento" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Arboles-Binarios" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Colas-de-prioridad-con-montones-binarios" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Dividir-y-conquistar" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Estructuras-Lineales" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Grafos" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Notacion-BigO" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Programacion-Dinamica" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Teorema-Maestro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tablas-Hash-y-Conjuntos-disyuntos" vcs="Git" />
   </component>
 </project>
