@@ -28,3 +28,6 @@
 [submodule "Tablas-Hash-y-Conjuntos-disyuntos"]
 	path = Tablas-Hash-y-Conjuntos-disyuntos
 	url = https://github.com/JDavid-Moreno/Tablas-Hash-y-Conjuntos-disyuntos.git
+[submodule "Tablas-Hash"]
+	path = Tablas-Hash
+	url = https://github.com/JDavid-Moreno/Tablas-Hash.git

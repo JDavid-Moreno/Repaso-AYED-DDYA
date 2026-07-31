@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Colas-de-prioridad-con-montones-binarios" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Tablas-Hash-y-Conjuntos-disyuntos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tablas-Hash" vcs="Git" />
   </component>
 </project>
